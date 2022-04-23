@@ -1,0 +1,28 @@
+#nav{
+    display: flex;  
+    align-items: flex-end; 
+    justify-content: end; 
+    border: 2px solid black;
+}
+
+a{
+    margin: 10px ;
+
+}
+
+
+
+#login-form-div{
+    margin:auto;
+    height:700px;
+    width:350px;
+    /* background-color: green; */
+}
+
+input{
+    width:300px;
+    margin:auto;
+    height:30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
